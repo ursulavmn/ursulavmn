@@ -7,7 +7,7 @@ Seja muito bem-vindo!
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://img.freepik.com/vetores-gratis/ilustracao-colorida-de-programador-feminino-trabalhando_23-2148277397.jpg?w=740&t=st=1682092111~exp=1682092711~hmac=e60cb61fe31ea19145cafc816f2117cb5091c325b65c401b0069dc40fca67ed9">
+   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.licdn.com/dms/image/D4D03AQGWD5dJpUY4Xg/profile-displayphoto-shrink_800_800/0/1681657043363?e=1687392000&v=beta&t=r4Zmg8u0gskF6mz1iCnAe_I7L-Bk0pGQW4emZtE3TGk">
   
   ##
  
