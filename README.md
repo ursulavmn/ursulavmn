@@ -2,6 +2,7 @@ Olá  eu sou a ÚRSULA NUNES . 👋
 ## DESENVOLVERDORA FRONT END 🚀 
 Seja muito bem-vindo! 🫶
 <br>
+Graduando em Análise de Desenvolvimento de Sistemas. 
 <br>
  <a href = "mailto:ursulavmn"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/%C3%BArsula-nunes-5632a4236/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
