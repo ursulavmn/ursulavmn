@@ -21,7 +21,7 @@ https://portifolio-ursula.vercel.app/index.html
   </a>
 </p>
 <br>
-  ## Contatos:
+     Contatos:
 
 <div>
 <a href = "https://github.com/ursulavmn"><img loading="lazy" src= "https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"  target="_blank"></a>
