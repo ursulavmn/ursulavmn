@@ -16,7 +16,7 @@ https://portifolio-ursula.vercel.app/index.html
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=cypress,selenium,postman,javascript,java,git,github,gitlab,sonarqube,robotframework"
+      src="https://go-skill-icons.vercel.app/api/icons?i=cypress,postman,javascript,git,github,gitlab,sonarqube,robotframework"
     />
   </a>
 </p>
